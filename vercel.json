@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/:path*",
-        "destination": "https://uxabhi.com/:path*"
+        "destination": "https://uxabhii.webflow.io/:path*"
       }
     ]
   }
