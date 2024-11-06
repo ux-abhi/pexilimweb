@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/:path*",
-      "destination": "https://uxabhi.com/:path*"
+      "source": "/test",
+      "destination": "https://example.com"
     }
   ]
 }
