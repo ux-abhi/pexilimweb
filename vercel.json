@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/:match*",
-      "destination": "https://uxabhii.webflow.io/:match*"
+      "destination": "https://ux-abhi.framer.website/:match*"
     }
   ]
 }
