@@ -5,13 +5,13 @@ const nextConfig = {
     beforeFiles: [
       {
         source: "/:match*",
-        destination: "https://uxabhii.webflow.io/:match*"
+        destination: "https://ux-abhi.framer.website/:match*"
       }
     ],
     afterFiles: [
       {
         source: "/:match*",
-        destination: "https://uxabhii.webflow.io/:match*"
+        destination: "https://ux-abhi.framer.website/:match*"
       }
     ]
   })
