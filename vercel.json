@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/:match*",
-      "destination": "https://bulky-type-567188.framer.app/:match*"
+      "destination": "https://ux-abhi.framer.website/:match*"
     }
   ]
 }
