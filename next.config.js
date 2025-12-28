@@ -5,13 +5,13 @@ const nextConfig = {
     beforeFiles: [
       {
         source: "/:match*",
-        destination: "https://uxabhii.framer.website/:match*"
+        destination: "https://pexilim.framer.website/:match*"
       }
     ],
     afterFiles: [
       {
         source: "/:match*",
-        destination: "https://uxabhii.framer.website/:match*"
+        destination: "https://pexilim.framer.website/:match*"
       }
     ]
   })
