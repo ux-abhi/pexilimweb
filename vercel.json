@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/:match*",
-      "destination": "https://uxabhii.framer.website/:match*"
+      "destination": "https://pexilim.framer.website/:match*"
     }
   ]
 }
